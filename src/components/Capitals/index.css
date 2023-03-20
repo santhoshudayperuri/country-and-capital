@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.contain {
+  background-color: #93c5fd;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.box {
+  background-color: #f8fafc;
+  margin-right: 40px;
+  margin-left: 40px;
+  border-radius: 15px;
+  padding: 20px;
+}
+.b {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px;
+}
